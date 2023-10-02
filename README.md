@@ -2,3 +2,4 @@
 "This is the second line"
 "Change added in dazzling_feature branch"
 "Change made a colaborator"
+"Change made a colaborator again"
